@@ -1,6 +1,6 @@
 # Video Editor's Toolkit
 
-![Video Editor's Toolkit](https://placeholder.svg?height=300&width=800)
+![Video Editor's Toolkit](/public/screenshot/site-pic.png)
 
 A professional suite of interactive tools designed specifically for video editors, filmmakers, and content creators. This toolkit provides calculators and generators that streamline your workflow and help you make better technical decisions.
 

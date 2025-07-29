@@ -4,9 +4,16 @@
 
 A professional suite of interactive tools designed specifically for video editors, filmmakers, and content creators. This toolkit provides calculators and generators that streamline your workflow and help you make better technical decisions.
 
+
+## 🚀 Live Demo
+[https://video-editors-toolkit.vercel.app](https://video-editor-toolkit.vercel.app/)
+
+
+
 ## Table of Contents
 
 - [Video Editor's Toolkit](#video-editors-toolkit)
+  - [🚀 Live Demo](#-live-demo)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Features](#features)
@@ -40,7 +47,7 @@ The project aims to handle the technical details so you can focus on what matter
 
 ### Aspect Ratio Calculator
 
-![Aspect Ratio Calculator](https://placeholder.svg?height=200&width=400)
+![Aspect Ratio Calculator](./public/screenshot/aspect-ratio.png)
 
 The Aspect Ratio Calculator helps you determine the optimal dimensions when converting between different aspect ratios.
 
@@ -66,7 +73,7 @@ The Aspect Ratio Calculator helps you determine the optimal dimensions when conv
 
 ### Export Settings Optimizer
 
-![Export Settings Optimizer](https://placeholder.svg?height=200&width=400)
+![Export Settings Optimizer](./public/screenshot/export-setting.png)
 
 The Export Settings Optimizer provides recommended export settings based on your destination platform, content type, and quality requirements.
 
@@ -94,7 +101,7 @@ The Export Settings Optimizer provides recommended export settings based on your
 
 ### Storage Calculator
 
-![Storage Calculator](https://placeholder.svg?height=200&width=400)
+![Storage Calculator](/public/screenshot/storage-cal.png)
 
 The Storage Calculator helps you estimate storage requirements for different video formats and calculate how much footage can fit on your drives.
 
@@ -120,7 +127,7 @@ The Storage Calculator helps you estimate storage requirements for different vid
 
 ### Shot List Generator
 
-![Shot List Generator](https://placeholder.svg?height=200&width=400)
+![Shot List Generator](/public/screenshot/shot-list.png)
 
 The Shot List Generator helps you create professional shot lists with time estimates and storyboard layouts.
 
@@ -160,7 +167,7 @@ The Shot List Generator helps you create professional shot lists with time estim
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/video-editors-toolkit.git
+git clone[ https://github.com/yourusername/video-editors-toolkit.git](https://github.com/roronoazoro1807/video-editor-toolkit)
 cd video-editors-toolkit
 ```
 

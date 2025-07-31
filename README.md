@@ -167,7 +167,7 @@ The Shot List Generator helps you create professional shot lists with time estim
 
 1. Clone the repository:
 ```bash
-git clone[ https://github.com/yourusername/video-editors-toolkit.git](https://github.com/roronoazoro1807/video-editor-toolkit)
+git clone (https://github.com/roronoazoro1807/video-editor-toolkit)
 cd video-editors-toolkit
 ```
 
